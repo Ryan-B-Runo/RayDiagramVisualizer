@@ -34,7 +34,7 @@ Diverging lens and mirror:
 Converging lens and mirror:
 - Focal length must be positive
  
-Some errors will prevent the canvas from updating, and some will change the background of the text fields red, even though an image will still form.
+Some errors will prevent the canvas from updating, but most will change the background of the text fields red, even though an image will still form.
 The red background indicated an incorrect image.
 
 ## Examples:
