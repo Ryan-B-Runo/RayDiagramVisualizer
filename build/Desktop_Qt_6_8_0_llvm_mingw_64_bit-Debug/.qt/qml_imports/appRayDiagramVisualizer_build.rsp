@@ -1,0 +1,14 @@
+-rootPath
+C:/dev/qt/RayDiagramVisualizer
+-cmake-output
+-output-file
+C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.qt/qml_imports/appRayDiagramVisualizer_build.cmake
+-importPath
+C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/RayDiagramVisualizer
+-importPath
+C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug
+-importPath
+C:/Qt/6.8.0/llvm-mingw_64/qml
+-qrcFiles
+C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.qt/rcc/qmake_RayDiagramVisualizer.qrc
+C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.qt/rcc/appRayDiagramVisualizer_raw_qml_0.qrc

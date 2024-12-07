@@ -1,0 +1,5 @@
+module RayDiagramVisualizer
+typeinfo appRayDiagramVisualizer.qmltypes
+prefer :/qt/qml/RayDiagramVisualizer/
+Main 1.0 Main.qml
+

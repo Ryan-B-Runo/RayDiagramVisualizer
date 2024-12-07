@@ -1,0 +1,187 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-78aab35838abb2af308b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RayDiagramVisualizer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-2d6e28138f213ce2150f.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3e7bea4b88d333e6f1f1.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-a2da58ddbe36b366dae8.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-4c81ea3cf2375716a114.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-8237d8f5dae4e3076a50.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer-Debug-e0e8fee7df3cca3a9536.json",
+					"name" : "appRayDiagramVisualizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer_autogen-Debug-70000533fbaa048bc553.json",
+					"name" : "appRayDiagramVisualizer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer_autogen_timestamp_deps-Debug-6f0cdbfb110b5f4d5637.json",
+					"name" : "appRayDiagramVisualizer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer_qmlimportscan-Debug-244fb51e91cafa8d3edf.json",
+					"name" : "appRayDiagramVisualizer_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer_qmllint-Debug-edec705a62e81726e61b.json",
+					"name" : "appRayDiagramVisualizer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer_qmllint_json-Debug-2cca9ecfc6c05ddea318.json",
+					"name" : "appRayDiagramVisualizer_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer_qmllint_module-Debug-4b313ed4819010d35bb6.json",
+					"name" : "appRayDiagramVisualizer_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer_qmltyperegistration-Debug-75b1da0ab31ba394183e.json",
+					"name" : "appRayDiagramVisualizer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRayDiagramVisualizer_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRayDiagramVisualizer_tooling-Debug-a73c05ac78d387c3c604.json",
+					"name" : "appRayDiagramVisualizer_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appRayDiagramVisualizer_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appRayDiagramVisualizer_aotstats_targets-Debug-8cddd4efada4be5125bd.json",
+					"name" : "module_appRayDiagramVisualizer_aotstats_targets",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug",
+		"source" : "C:/dev/qt/RayDiagramVisualizer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

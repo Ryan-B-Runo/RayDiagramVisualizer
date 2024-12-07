@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/RayDiagramVisualizer">C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/RayDiagramVisualizer</file>
+
+  </qresource>
+</RCC>
