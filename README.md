@@ -24,7 +24,7 @@ Application window and screen size can affect image appearance.
 ## Validation and Errors
 All Devices:
 - Object distance cannot be equal to focal length
-- Object distance cannot be equal to zero
+- Object distance must be greater than zero
 - Focal length cannot equal zero
   
 Diverging lens and mirror:
