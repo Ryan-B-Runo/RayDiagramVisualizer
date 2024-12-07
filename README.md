@@ -2,12 +2,18 @@
 
  Generates basic ray diagrams for optical devices.
 
- ## Build from Source Code
- ???
+## Install
+(later)
 
- ## Install
-???
- ## Instructions
+## Build from Source Code
+As far as I know, you must: 
+- Install QT Creator (https://doc.qt.io/qtcreator/creator-how-to-install.html)
+- make a new project
+- add Main.qml and main.cpp
+- Deal with CMAKE if necesary
+- Click the preview or run button
+
+## Instructions
 - Select optical device (converging lens, diverging lens, converging mirror, diverging mirror) on top row
   - Selected device will appear as text
 - Select variable to solve for (focal length, image distance, object distance) on second row
