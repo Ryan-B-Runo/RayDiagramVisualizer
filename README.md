@@ -8,8 +8,8 @@
 ## Build from Source Code
 As far as I know, you must: 
 - Install QT Creator (https://doc.qt.io/qtcreator/creator-how-to-install.html)
-- make a new project
-- add Main.qml and main.cpp
+- Make a new project
+- Add Main.qml and main.cpp
 - Deal with CMAKE if necesary
 - Click the preview or run button
 
