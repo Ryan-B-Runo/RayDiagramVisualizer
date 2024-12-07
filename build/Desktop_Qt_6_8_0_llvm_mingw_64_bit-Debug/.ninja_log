@@ -50,3 +50,16 @@
 469	532	7552423747598410	CMakeFiles/appRayDiagramVisualizer.dir/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.qt/rcc/qrc_appRayDiagramVisualizer_raw_qml_0.cpp.obj	8cb27808299ce839
 467	2076	7552423747567704	CMakeFiles/appRayDiagramVisualizer.dir/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.rcc/qmlcache/appRayDiagramVisualizer_Main_qml.cpp.obj	fcfcebf30598bf1d
 2076	2194	7552423763654810	appRayDiagramVisualizer.exe	1201ca7160f87601
+26	83	7552438589844995	RayDiagramVisualizer/Main.qml	eb3e676fd23e04a
+26	83	7552438589844995	C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/RayDiagramVisualizer/Main.qml	eb3e676fd23e04a
+32	445	7552438593468167	.qt/qml_imports/appRayDiagramVisualizer_build.cmake	4fcda2eb9c1a7f0
+32	445	7552438593468167	C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.qt/qml_imports/appRayDiagramVisualizer_build.cmake	4fcda2eb9c1a7f0
+451	509	7552438594083494	.qt/rcc/qrc_appRayDiagramVisualizer_raw_qml_0.cpp	22c438a9d23845f4
+451	509	7552438594083494	C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.qt/rcc/qrc_appRayDiagramVisualizer_raw_qml_0.cpp	22c438a9d23845f4
+445	582	7552438594810245	.rcc/qmlcache/appRayDiagramVisualizer_Main_qml.cpp	bc3aae86a53ed69c
+445	582	7552438594810245	.rcc/qmlcache/appRayDiagramVisualizer_Main_qml.cpp.aotstats	bc3aae86a53ed69c
+445	582	7552438594810245	C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.rcc/qmlcache/appRayDiagramVisualizer_Main_qml.cpp	bc3aae86a53ed69c
+445	582	7552438594810245	C:/dev/qt/RayDiagramVisualizer/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.rcc/qmlcache/appRayDiagramVisualizer_Main_qml.cpp.aotstats	bc3aae86a53ed69c
+587	659	7552438594954548	CMakeFiles/appRayDiagramVisualizer.dir/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.qt/rcc/qrc_appRayDiagramVisualizer_raw_qml_0.cpp.obj	8cb27808299ce839
+582	2210	7552438594904388	CMakeFiles/appRayDiagramVisualizer.dir/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/.rcc/qmlcache/appRayDiagramVisualizer_Main_qml.cpp.obj	fcfcebf30598bf1d
+2210	2342	7552438611181931	appRayDiagramVisualizer.exe	1201ca7160f87601

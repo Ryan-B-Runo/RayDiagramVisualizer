@@ -403,7 +403,7 @@ Window {
 
                 onTextChanged: {
                     if(window.solve != "Solve for p"){
-                        if(parseInt(text) == parseInt(window.f) || parseInt(text) == 0){//object distance cannot equal the focal point or there will be no image and it can't be 0
+                        if(parseInt(text) == parseInt(window.f) || parseInt(text) <= 0){//object distance cannot equal the focal point or there will be no image and it can't be <= 0
                             window.bg = "red";
                         }else{
                             window.bg = "white";
