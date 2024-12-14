@@ -3,7 +3,7 @@
  Generates basic ray diagrams for optical devices.
 
 ## Install
-(later)
+Instaler file is a work in progress. It should be available shortly.
 
 ## Build from Source Code
 As far as I know, you must: 
